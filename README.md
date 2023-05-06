@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Learn more about me at [allandao.com](allandao.com).
+
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allandao&show_icons=true&count_private=true&include_all_commits=true&bg_color=ecf0f1FF)
+<!-- &hide=stars,issues&bg_color= RRGGBBAA, 8 digits with AA representing Alpha and no # -->
+
+![](https://profile-counter.glitch.me/allandao/count.svg)
+
+Thanks for visiting!
+
