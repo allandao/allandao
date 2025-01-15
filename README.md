@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer with prior experiences in a variety of industries and cities, including Boston, Charlotte, Grand Rapids, and Seattle. Learn more about me at [allandao.com](allandao.com).
+I'm a software engineer with prior experiences in a variety of industries and cities, comprising time spent working in Seattle, Boston, Charlotte, Grand Rapids, and the Portland metropolitan area. Learn more about me at [allandao.com](allandao.com). Proud Alumni of UW Seattle.
 
 <!-- ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allandao&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues&include_all_commits&hide_rank=true) -->
 <!-- &hide=stars,issues&bg_color= RRGGBBAA, 8 digits with AA representing Alpha and no # -->
